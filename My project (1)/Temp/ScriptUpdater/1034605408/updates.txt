@@ -1,0 +1,2 @@
+Temp/ScriptUpdater/1034605408\979489297_PlayerMovementScript.cs => Assets/Easy FPS/Scripts/PlayerMovementScript.cs
+Temp/ScriptUpdater/1034605408\1723488404_GunScript.cs => Assets/Easy FPS/Scripts/GunScript.cs
